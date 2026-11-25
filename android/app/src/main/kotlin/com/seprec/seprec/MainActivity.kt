@@ -1,0 +1,5 @@
+package com.seprec.seprec
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()

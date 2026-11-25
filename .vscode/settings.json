@@ -1,0 +1,225 @@
+
+{
+    "workbench.colorCustomizations": {
+        // =====================================================
+        // 🧭 ACTIVITY BAR
+        // =====================================================
+        "activityBar.activeBackground": "#02569B",
+        "activityBar.activeBorder": "#3DDC84",
+        "activityBar.background": "#02569B",
+        "activityBar.foreground": "#D6E9FF",
+        "activityBar.inactiveForeground": "#D6E9FF99",
+        "activityBarBadge.background": "#3DDC84",
+        "activityBarBadge.foreground": "#0A1929",
+
+        "activityBarTop.activeBackground": "#02569B",
+        "activityBarTop.activeBorder": "#3DDC84",
+        "activityBarTop.background": "#02569B",
+        "activityBarTop.foreground": "#D6E9FF",
+        "activityBarTop.inactiveForeground": "#D6E9FF99",
+
+        // =====================================================
+        // 🪟 TITLE BAR / COMMAND CENTER
+        // =====================================================
+        "commandCenter.border": "#02569B99",
+        "commandCenter.foreground": "#D6E9FF",
+        "sash.hoverBorder": "#3DDC84",
+
+        "titleBar.activeBackground": "#012A4F",
+        "titleBar.activeForeground": "#D6E9FF",
+        "titleBar.inactiveBackground": "#012A4F",
+        "titleBar.inactiveForeground": "#D6E9FF99",
+
+        // =====================================================
+        // 📊 STATUS BAR
+        // =====================================================
+        "statusBar.background": "#02569B",
+        "statusBar.foreground": "#FFFFFF",
+        "statusBar.debuggingBackground": "#3DDC84",
+        "statusBar.debuggingForeground": "#01101F",
+        "statusBar.inactiveBackground": "#01437A",
+        "statusBarItem.hoverBackground": "#0A6FBF",
+        "statusBarItem.remoteBackground": "#3DDC84",
+        "statusBarItem.remoteForeground": "#01101F",
+
+        // =====================================================
+        // 📁 SIDEBAR
+        // =====================================================
+        "sideBar.background": "#01192F",
+        "sideBar.foreground": "#E0EDF9",
+        "sideBar.border": "#123A5D",
+
+        // =====================================================
+        // 📋 LISTAS / EXPLORER
+        // =====================================================
+        "list.activeSelectionBackground": "#02569B",
+        "list.activeSelectionForeground": "#FFFFFF",
+        "list.inactiveSelectionBackground": "#013A68",
+        "list.inactiveSelectionForeground": "#A8C4DE",
+        "list.hoverBackground": "#023A6B",
+        "list.focusBackground": "#023A6B",
+        "list.highlightForeground": "#3DDC84",
+
+        // =====================================================
+        // 📑 PESTAÑAS
+        // =====================================================
+        "tab.activeBackground": "#02569B",
+        "tab.activeForeground": "#FFFFFF",
+        "tab.activeBorderTop": "#3DDC84",
+        "tab.inactiveBackground": "#01192F",
+        "tab.inactiveForeground": "#8AA9C8",
+        "tab.hoverBackground": "#023A6B",
+        "tab.border": "#123A5D",
+
+        "editorGroupHeader.tabsBackground": "#01192F",
+        "editorGroupHeader.tabsBorder": "#123A5D",
+        "breadcrumb.foreground": "#A8C4DE",
+        "breadcrumb.activeSelectionForeground": "#3DDC84",
+
+        // =====================================================
+        // 💻 EDITOR
+        // =====================================================
+        "editor.background": "#061A2B",
+        "editor.foreground": "#D6E9FF",
+        "editorLineNumber.foreground": "#52718F",
+        "editorLineNumber.activeForeground": "#3DDC84",
+        "editorCursor.foreground": "#3DDC84",
+        "editor.selectionBackground": "#02569B70",
+        "editor.inactiveSelectionBackground": "#02569B40",
+        "editor.lineHighlightBackground": "#0B2942",
+        "editorIndentGuide.background1": "#183B56",
+        "editorIndentGuide.activeBackground1": "#3DDC84",
+        "editorWhitespace.foreground": "#183B56",
+        "editorRuler.foreground": "#183B56",
+        "editorBracketMatch.background": "#3DDC8420",
+        "editorBracketMatch.border": "#3DDC84",
+
+        // =====================================================
+        // 🗺️ MINIMAP
+        // =====================================================
+        "minimap.background": "#061A2B",
+        "minimap.selectionHighlight": "#3DDC84",
+        "minimap.findMatchHighlight": "#FFD166",
+        "minimap.errorHighlight": "#FF6262",
+        "minimap.warningHighlight": "#E8B86D",
+        "minimapSlider.background": "#3DDC8420",
+        "minimapSlider.hoverBackground": "#3DDC8450",
+        "minimapSlider.activeBackground": "#3DDC8470",
+
+        // =====================================================
+        // 💻 TERMINAL / PANEL
+        // =====================================================
+        "panel.background": "#061A2B",
+        "panel.border": "#02569B",
+        "panelTitle.activeBackground": "#01192F",
+        "panelTitle.activeForeground": "#3DDC84",
+        "panelTitle.activeBorder": "#3DDC84",
+        "panelTitle.inactiveForeground": "#8AA9C8",
+        "panelTitle.border": "#02569B",
+        "panelTitleBadge.background": "#3DDC84",
+        "panelTitleBadge.foreground": "#0A1929",
+
+        "terminal.background": "#061A2B",
+        "terminal.foreground": "#D6E9FF",
+        "terminalCursor.foreground": "#3DDC84",
+        "terminal.selectionBackground": "#02569B70",
+
+        // =====================================================
+        // 🔍 COMMAND PALETTE
+        // =====================================================
+        "quickInput.background": "#01192F",
+        "quickInput.foreground": "#D6E9FF",
+        "quickInputList.focusBackground": "#02569B",
+        "quickInputList.focusForeground": "#FFFFFF",
+
+        // =====================================================
+        // 🔔 NOTIFICACIONES
+        // =====================================================
+        "notifications.background": "#01192F",
+        "notifications.foreground": "#D6E9FF",
+        "notifications.border": "#02569B",
+
+        // =====================================================
+        // 🧩 SUGERENCIAS Y VENTANAS
+        // =====================================================
+        "editorWidget.background": "#09243A",
+        "editorWidget.foreground": "#D6E9FF",
+        "editorWidget.border": "#16466A",
+        "editorSuggestWidget.background": "#09243A",
+        "editorSuggestWidget.foreground": "#D6E9FF",
+        "editorSuggestWidget.selectedBackground": "#02569B",
+        "editorSuggestWidget.highlightForeground": "#3DDC84",
+        "editorHoverWidget.background": "#09243A",
+        "editorHoverWidget.foreground": "#D6E9FF",
+        "editorHoverWidget.border": "#16466A",
+
+        // =====================================================
+        // 🔘 BOTONES
+        // =====================================================
+        "button.background": "#02569B",
+        "button.foreground": "#FFFFFF",
+        "button.hoverBackground": "#0A6FBF",
+
+        // =====================================================
+        // 🔗 ENLACES
+        // =====================================================
+        "textLink.foreground": "#50E4D6",
+        "textLink.activeForeground": "#3DDC84"
+    },
+
+    // =====================================================
+    // 🎯 DARK MODERN
+    // =====================================================
+    "[Dark Modern]": {
+        "workbench.colorCustomizations": {
+            "panel.background": "#061A2B",
+            "panel.border": "#02569B",
+            "panelTitle.activeBackground": "#01192F",
+            "panelTitle.activeForeground": "#3DDC84",
+            "panelTitle.activeBorder": "#3DDC84",
+            "panelTitle.inactiveForeground": "#8AA9C8",
+            "panelTitle.border": "#02569B",
+            "panelTitleBadge.background": "#3DDC84",
+            "panelTitleBadge.foreground": "#0A1929",
+            "editor.background": "#061A2B",
+            "sideBar.background": "#01192F",
+            "tab.activeBackground": "#02569B",
+            "tab.inactiveBackground": "#01192F",
+            "editorLineNumber.activeForeground": "#3DDC84"
+        }
+    },
+
+    // =====================================================
+    // 🗺️ MINIMAP — COMPACTO
+    // =====================================================
+    "editor.minimap.enabled": true,
+    "editor.minimap.side": "right",
+    "editor.minimap.size": "proportional",
+    "editor.minimap.scale": 1,
+    "editor.minimap.maxColumn": 50,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "mouseover",
+    "editor.minimap.autohide": "none",
+
+    // =====================================================
+    // 🔤 EDITOR
+    // =====================================================
+    "editor.fontSize": 13,
+    "editor.lineHeight": 22,
+    "editor.fontLigatures": true,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+
+    // =====================================================
+    // 💻 TERMINAL
+    // =====================================================
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.lineHeight": 1,
+
+    // =====================================================
+    // 🎨 PREFERENCIAS
+    // =====================================================
+    "workbench.colorTheme": "Dark Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "peacock.color": "#02569B"
+}
